@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravindra Kamble
-- 👀 I’m interested in **web development**
+- 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **ReactJS**
 - 💞️ I’m looking to collaborate on html css project
 - 📫 You can reach me through **hello@bentoc.com**

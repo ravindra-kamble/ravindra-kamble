@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravindra-kamble
+- 👋 Hi, I’m Ravindra Kamble
 - 👀 I’m interested in **web development**
 - 🌱 I’m currently learning **ReactJS**
 - 💞️ I’m looking to collaborate on html css project
